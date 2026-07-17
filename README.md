@@ -4,6 +4,8 @@ Wanderlust AI is a modern, stateful, and interactive travel itinerary planner. B
 
 Rather than showing a generic chat prompt, the application translates unstructured text into a validated JSON structure, rendered inside a modern glassmorphic dashboard.
 
+### 🔗 Live Demo: [https://ai-trip-planner-nc8u.vercel.app](https://ai-trip-planner-nc8u.vercel.app)
+
 ---
 
 ## 🗺️ System Architecture
