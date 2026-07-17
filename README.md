@@ -26,11 +26,14 @@ graph TD
 
 ## 📸 Screenshots
 
-### Homepage (Light Mode)
-![Wanderlust AI Homepage](./public/screenshots/homepage.jpg)
+### 1. Initial State / Homepage (Dark Mode)
+![Wanderlust AI Homepage (Dark Mode)](./public/screenshots/homepage_dark.png)
 
-### Trip Generated & Interactive stops (Dark Mode)
-![Wanderlust AI Itinerary View](./public/screenshots/itinerary.jpg)
+### 2. Itinerary Generated (Dark Mode)
+![Wanderlust AI Itinerary (Dark Mode)](./public/screenshots/itinerary_dark.png)
+
+### 3. Itinerary Generated (Light Mode)
+![Wanderlust AI Itinerary (Light Mode)](./public/screenshots/itinerary_light.png)
 
 ---
 
